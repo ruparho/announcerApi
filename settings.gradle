@@ -1,0 +1,3 @@
+rootProject.name = 'Announcer_API'
+
+include 'AnnouncerApiTests'
