@@ -1,0 +1,7 @@
+/.idea/
+/target/
+/src/main/resources/screenshots/
+/.gradle/
+/.allure/
+/allure-results/
+/build/
